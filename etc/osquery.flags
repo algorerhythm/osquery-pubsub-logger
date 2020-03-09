@@ -1,0 +1,7 @@
+--verbose=true
+--extensions_autoload=/usr/local/osquery_extensions/extensions.load
+--logger-plugin=pubSubLogger
+--disable_audit=false
+--disable_events=false
+--extensions_socket=/var/osquery/osquery.em
+--config_path=etc/osquery.conf
